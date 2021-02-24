@@ -1,5 +1,3 @@
-package Lab10;
-
 public interface DisjointSetDataStructure{
     void makeSet(int item);
     int findSet(int item);
