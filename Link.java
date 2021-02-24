@@ -1,5 +1,3 @@
-package Lab10;
-
 public class Link implements Comparable<Link>{
     public String ref;
     public int weight;
