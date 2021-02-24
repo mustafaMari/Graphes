@@ -1,5 +1,3 @@
-package Lab10;
-
 import java.util.Scanner;
 import java.util.*;
 import java.util.regex.Matcher;
